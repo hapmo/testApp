@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testApp</string>
+
+    <string name="text_gps_disabled">Gps is disabled. Please turn in On</string>
+    <string name="text_goto_settings">Go to settings</string>
+    <string name="text_cancel">Cancel</string>
+</resources>
